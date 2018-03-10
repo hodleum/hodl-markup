@@ -1,4 +1,4 @@
-# HODL markup language
+# HodlML
 **HODL** markup language is used for decentralized internet in HODL. 
 
 How does HODL decentralized internet works?
@@ -17,3 +17,9 @@ You can see what is in the site's code. You can see the whole memory, but you al
 
 **Everything is decentralized**
 HODL sites cannot be closed.
+
+HodlML  Copyright (C) 2018 HODL - The Cryptocurrency
+-------------------------------------------------
+This program comes with ABSOLUTELY NO WARRANTY;
+This is free software, and you are welcome to redistribute it
+under certain conditions;
